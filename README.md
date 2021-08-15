@@ -14,7 +14,7 @@
 <table>
  <tr>
   <td width=420 align=center>
-   <img width=233 height=229 id="learning" src="https://cdn.discordapp.com/attachments/874004420118069298/876295016891441162/learning.gif">
+   <img width=233 height=229 id="learning" src="https://cdn.discordapp.com/attachments/874004420118069298/876520275766820945/learning1.gif">
   </td>
   <td width=420 align=center>
    <img width=455 height=237 id="living" src="https://cdn.discordapp.com/attachments/874004420118069298/876254071454068786/logic.PNG">
